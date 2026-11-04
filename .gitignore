@@ -1,0 +1,40 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/ProfilerCaptures/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+
+# Builds y registros
+*.apk
+*.aab
+*.unitypackage
+*.log
+sysinfo.txt
+crashlytics-build.properties
+
+# Gradle / Android
+.gradle/
+*.keystore
+*.jks
+
+# Sistema
+.DS_Store
+Thumbs.db

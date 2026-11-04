@@ -1,0 +1,17 @@
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/GAToUnityCallbacks.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroEnd.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroHeaderBegin.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroSourceBegin.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAApplication.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAConfiguration.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGADebug.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAEvents.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAInput.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboard.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboardCallbacks.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGATypes.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAVersion.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGACallbacks.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAConfigurationCallbacks.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAKeyEventCallbacks.h
+/run/media/nadat21220/Conexiones/Unity_PY/prueba_android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAMotionEventCallbacks.h
