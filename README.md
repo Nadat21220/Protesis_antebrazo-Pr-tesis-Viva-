@@ -11,17 +11,3 @@ App educativa en **Unity 6 (URP)** para **Android** que muestra de forma interac
 - **Cinemáticas:** Saludar, Amor y paz y Explicar (banners con líneas que señalan cada parte).
 - **Escenario:** la mano en una vitrina dentro de una tienda con neones y focos.
 
-## Cómo usarlo
-1. Abre el proyecto en Unity 6 y abre la escena `Protecis_Mano`.
-2. Deja que compile.
-3. Ejecuta `Tools > Mano > Construir Escena Completa y UI` (se puede repetir).
-4. Pon el Game view en 1920x1080 y pulsa Play.
-
-## Estructura
-- `Assets/Scripts/ProtesisViva/` — lógica de la mano, cámara, gestos, anotaciones, tienda e interfaz.
-- `Assets/Editor/` — constructores de escena (`ProtesisSceneBuilder`, `EscenarioTiendaBuilder`).
-
-## Pendiente
-- Probar todo en Unity y revisar la consola.
-- Si los dedos cierran al revés, activar `invertirCierre` en `ManoAgarre`.
-- Ajustar la intensidad de focos y neones.
