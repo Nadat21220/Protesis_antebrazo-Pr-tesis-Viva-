@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="500" viewBox="0 0 300 500">
+  <rect width="300" height="500" fill="#111"/>
+  <rect x="4" y="4" width="292" height="492" fill="none" stroke="#EFE3CF" stroke-width="2"/>
+  <text x="50%" y="50%" fill="#EFE3CF" font-family="sans-serif" font-size="20" text-anchor="middle" dominant-baseline="middle">Captura: alerta calor</text>
+</svg>
