@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#111"/>
+  <rect x="4" y="4" width="592" height="442" fill="none" stroke="#EFE3CF" stroke-width="2"/>
+  <text x="50%" y="50%" fill="#EFE3CF" font-family="sans-serif" font-size="20" text-anchor="middle" dominant-baseline="middle">Placeholder: render avance 3D</text>
+</svg>
