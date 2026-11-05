@@ -18,5 +18,6 @@ App educativa en **Unity 6 (URP)** para **Android** que muestra de forma interac
 <img width="894" height="475" alt="FotoPYGraficos3" src="https://github.com/user-attachments/assets/ade5692c-af36-43bd-a29b-50c685c92741" />
 
 
+## APK 
 
-
+El apk se encuentra dentro de la carpeta Builds
